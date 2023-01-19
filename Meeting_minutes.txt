@@ -1,0 +1,91 @@
+ERD:
+Tables:
+
+ERD - Aaditya and Avni
+create table - Aaditya and Avni
+clean up (python) - Nnamdi and Adeola
+
+5 Tables:
+
+Housing:
+Id - pkey, int
+Type, VARCHAR
+City	VARCHAR
+Zip	int
+State VARCHAR
+Listed On Date
+Last Sold On Date
+Year built int
+
+School:
+Id - pkey / fkey int
+Elementary School Score	int
+Elementary School Distance	int
+Middle School Score	int
+Middle School Distance	int
+High School Score	int
+High School Distance	int
+
+Features:
+Id - pkey / fkey int
+Parking	VARCHAR
+Bedrooms	int
+Bathrooms	int
+Full bathrooms int
+Total interior livable area int
+
+Utilities:
+Id - pkey / fkey  int
+Heating features VARCHAR	
+Cooling features VARCHAR
+
+Finance:
+Id - pkey / fkey int
+Tax assessed value	int
+Annual tax amount	int
+Listed Price		int
+Last Sold Price	int
+
+
+List of Columns: 
+Id	
+Address	
+Sold Price	
+Summary	
+Type	
+Year built	
+Heating	
+Cooling	
+Parking	
+Lot	
+Bedrooms	
+Bathrooms	
+Full bathrooms	
+Total interior livable area	
+Total spaces	
+Garage spaces	
+Region	
+Elementary School	
+Elementary School Score	
+Elementary School Distance	
+Middle School	
+Middle School Score	
+Middle School Distance	
+High School	
+High School Score	
+High School Distance	
+Flooring	
+Heating features	
+Cooling features	
+Appliances included	
+Laundry features	
+Parking features	
+Tax assessed value	
+Annual tax amount	
+Listed On	
+Listed Price	
+Last Sold On	
+Last Sold Price	
+City	
+Zip	
+State
