@@ -1,9 +1,13 @@
+Date updated: 18-Jan-2023
+Next deliverable: 1,2,3
+Due: 20-Jan-2023
+
 ERD:
 Tables:
 
-ERD - Aaditya and Avni
-create table - Aaditya and Avni
-clean up (python) - Nnamdi and Adeola
+Deliverable 1: ERD - Aaditya and Avni
+Deliverable 2: create table - Aaditya and Avni
+Deliverable 3: clean up (python) - Nnamdi and Adeola
 
 5 Tables:
 
