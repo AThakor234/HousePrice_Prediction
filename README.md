@@ -1,6 +1,6 @@
 # HousePrice_Prediction
 Overview 
-The overview of this group project is basically applying ETL on a CSV dataset named California House prices which was extracted from Kaggle.com to solve some business problems and prediction. we performed ETL on the dataset in order to have a clean dataset and utilize useful features for our business questions which are;
+The overview of this group project is basically applying ETL on a CSV dataset named California House prices which was extracted from Kaggle.com to solve some business problems and prediction. We performed ETL on the dataset in order to have a clean dataset and utilize useful features for our business questions which are;
 
 - What are the important factors that determine a house price ?
 - 
