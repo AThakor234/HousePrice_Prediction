@@ -11,3 +11,5 @@ The overview of this group project is basically applying ETL on a CSV dataset na
 For the purpose of accuracy, we use Python to accomplish our data exploration,created an ER diagram for our database and also  created a mockup of our machine learning models, using "Sold price" as our output and the most useful features as input.
 
 Attached ER Diagram Below. 
+
+[alt text](image_url)
