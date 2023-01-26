@@ -1,7 +1,13 @@
 # California House Price Prediction
 
 ## Overview:
-The overview of the project is to develop a Machine Learning Model to predict the housing prices in the State of California. 
+The goal is to provide cosnsumers the house price prediction and forecasting information estimating the future value of different types of property. The overview of the project is to develop a Machine Learning Model to predict the housing prices in the State of California based on the inputs below. 
+
+## Inputs: 
+* Housing (Location, Type) 
+* School (Score, Distance)
+* Features (no. of bedrooms/barthroom)
+* Finance (tax amount, list/sold price)
 
 ## Resources:
 * Language: Python, SQL 
