@@ -1,12 +1,26 @@
-# HousePrice_Prediction
-Overview The overview of this group project is basically applying ETL on a CSV dataset named California House prices which was extracted from Kaggle.com to solve some business problems and prediction. We performed ETL on the dataset in order to have a clean dataset and utilize useful features for our business questions which are;
+# California House Price Prediction
 
-What are the important factors that determine a house price ?
-How accurate can the model predict the price of a house?
-What types of homes are more likely to be sold in the next 5 years ?
-For the purpose of accuracy, we use Python to accomplish our data exploration,created an ER diagram for our database and also created a mockup of our machine learning models, using "Sold price" as our output and the most useful features as input.
+## Overview:
+The overview of the project is to develop a Machine Learning Model to predict the housing prices in the State of California. 
 
-Attached ER Diagram Below.
+## Resources:
+* Language: Python, SQL 
+* Tools: JupyterNotebook, QuickDatabase, Tableau
+* Database: Postgres
+* Dataset: [Project_Dataset](https://www.kaggle.com/datasets/quantbruce/californiahouseprices)
+
+## Data Exploration on the dataset in Python:
+The dataset was extracted as .csv file from the Kaggle.com. As part of the transformation, we applied series of rules/functions to the extracted data. This was inorder to load the transformed data into Postgres database. 
+
+## ERD: 
 ![ERD](https://github.com/AThakor234/HousePrice_Prediction/blob/a6bef918e8adbd038f04032372d25baa2f7f1b04/ERD.png)
 
-alt text
+## Mockup of the Machine Learning Models:
+The housing price will be predicted using the Linear Regression Model. Additionally, Support Vector Machine (SVM) and RandomForest machine learning models will be used to predict the house prices based on factors such as the location and total livable area. 
+
+## Outline of the Dashboard:
+* Heatmap illustrating the Housing Price Vs Location 
+* Histogram illustrating the Housing Price Vs Type of House
+* Bar/Pie chart illustrating the Housing Price Vs Features 
+* Linear line graph illustrating the Housing Price Vs  
+* Scatter Plot illustrating the Price vs Total livable area, Price vs School score/distance 
