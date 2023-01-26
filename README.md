@@ -6,6 +6,5 @@ How accurate can the model predict the price of a house?
 What types of homes are more likely to be sold in the next 5 years ?
 For the purpose of accuracy, we use Python to accomplish our data exploration,created an ER diagram for our database and also created a mockup of our machine learning models, using "Sold price" as our output and the most useful features as input.
 
-Attached ER Diagram Below.
 
-alt text
+[click here]([image_url](https://github.com/AThakor234/HousePrice_Prediction/blob/main/ERD.png))
