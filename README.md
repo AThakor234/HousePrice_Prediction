@@ -16,13 +16,16 @@ The goal is to provide cosnsumers the house price prediction and forecasting inf
 * Dataset: [Project_Dataset](https://www.kaggle.com/datasets/quantbruce/californiahouseprices)
 
 ## Data Exploration on the dataset in Python:
-Exploratory Data Analysis notebook here: [EDA_Notebook](https://github.com/AThakor234/HousePrice_Prediction/blob/main/ETL/ETL.ipynb) 
+Exploratory Data Analysis notebook here: [EDA_Notebook](https://github.com/AThakor234/HousePrice_Prediction/blob/main/ETL/ETL.ipynb)
+
 The dataset was extracted as .csv file from the Kaggle.com. As part of the transformation, we applied series of rules/functions to the extracted data. This was inorder to load the transformed data into Postgres database. 
 
 ## ERD: 
 ![ERD](https://github.com/AThakor234/HousePrice_Prediction/blob/a6bef918e8adbd038f04032372d25baa2f7f1b04/ERD.png)
 
 ## Machine Learning Models:
+[Machine_Learning_Notebook](https://github.com/AThakor234/HousePrice_Prediction/blob/main/ML/ML.ipynb) 
+
 In this project, we have adopted four regression models to predict the house price namely:
 
 + Linear Regression Model
