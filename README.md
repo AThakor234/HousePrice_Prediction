@@ -16,7 +16,7 @@ The goal is to provide cosnsumers the house price prediction and forecasting inf
 * Dataset: [Project_Dataset](https://www.kaggle.com/datasets/quantbruce/californiahouseprices)
 
 ## Data Exploration on the dataset in Python:
-Exploratory Data Analysis notebook here: [EDA_Notebook](https://github.com/AThakor234/HousePrice_Prediction/blob/main/ETL/ETL.ipynb)
+[Click_here_to_access_EDA_Notebook](https://github.com/AThakor234/HousePrice_Prediction/blob/main/ETL/ETL.ipynb)
 
 The dataset was extracted as .csv file from the Kaggle.com. As part of the transformation, we applied series of rules/functions to the extracted data. This was inorder to load the transformed data into Postgres database. 
 
@@ -24,16 +24,16 @@ The dataset was extracted as .csv file from the Kaggle.com. As part of the trans
 ![ERD](https://github.com/AThakor234/HousePrice_Prediction/blob/a6bef918e8adbd038f04032372d25baa2f7f1b04/ERD.png)
 
 ## Machine Learning Models:
-[Machine_Learning_Notebook](https://github.com/AThakor234/HousePrice_Prediction/blob/main/ML/ML.ipynb) 
+[Click_here_to access_Machine_Learning_Notebook](https://github.com/AThakor234/HousePrice_Prediction/blob/main/ML/ML.ipynb) 
 
-In this project, we have adopted four regression models to predict the house price namely:
+In this project, we will adopt four regression models to predict the house price namely:
 
 + Linear Regression Model
 + Random Forest Regression Model
 + Gradient Boost Regression Model
 + XG Boost Regression Model
 
-The house price will be predicted based on the following input variables:
+The house price will be predicted using the following input variables:
 + Housing Type
 + Heating Features
 + Cooling features
@@ -53,7 +53,7 @@ The house price will be predicted based on the following input variables:
 + Zip
 + State
 
-The categorical variables with more than 25 unique features will be rescaled by the bucketing techniquee and one-hot encoding applied before parsing on to the machine laerning models. SImilary, the standard scalar instance will be used to transform numerical values for the machine learning models.
+The categorical variables with more than 25 unique features will be rescaled by the bucketing technique and one-hot encoding applied before parsing on to the machine laerning models. SImilary, the standard scalar instance will be used to transform numerical values for the machine learning models.
 
 The models will be trained and assessed using the following statistical accuracy indexes:
 + Root Mean Square Error (RMSE)
