@@ -21,8 +21,43 @@ The dataset was extracted as .csv file from the Kaggle.com. As part of the trans
 ## ERD: 
 ![ERD](https://github.com/AThakor234/HousePrice_Prediction/blob/a6bef918e8adbd038f04032372d25baa2f7f1b04/ERD.png)
 
-## Mockup of the Machine Learning Models:
-The housing price will be predicted using the Linear Regression Model. Additionally, Support Vector Machine (SVM) and RandomForest machine learning models will be used to predict the house prices based on factors such as the location and total livable area. 
+## Machine Learning Models:
+In this project, we have adopted four regression models to predict the house price namely:
+
++ Linear Regression Model
++ Random Forest Regression Model
++ Gradient Boost Regression Model
++ XG Boost Regression Model
+
+The house price will be predicted based on the following input variables:
++ Housing Type
++ Heating Features
++ Cooling features
++ Number of Bedrooms
++ Number of Bathrooms
++ Number of Full Bathrooms
++ Elementary School Score and Distance
++ Middle School Score and Distance
++ High School Score and Distance
++ Laundry Features
++ Flooring
++ Appliances Included
++ Tax Assessed Value
++ Annual Tax Amount
++ Listed Price
++ Losted Date
++ Zip
++ State
+
+The categorical variables with more than 25 unique features will be rescaled by the bucketing techniquee and one-hot encoding applied before parsing on to the machine laerning models. SImilary, the standard scalar instance will be used to transform numerical values for the machine learning models.
+
+The models will be trained and assessed using the following statistical accuracy indexes:
++ Root Mean Square Error (RMSE)
++ Mean Average Error (MAE)
++ R-Squared Coefficient of Determination
+
+The above mentioned indexes will be used to select the best performing model.
+Finally, we will apply Lasso Regression Model on our input features to select the best input features and perform hyperparameter tuning to improve model accuracies and performance.
 
 ## Outline of the Dashboard:
 * Heatmap illustrating the Housing Price Vs Location 
