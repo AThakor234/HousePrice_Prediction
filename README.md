@@ -68,4 +68,4 @@ Finally, we will apply Lasso Regression Model on our input features to select th
 
 ## Mock Dashboard
 
-[Mock Dashboard](https://public.tableau.com/app/profile/avni.thakor/viz/FinalProject_16751303234100/Region?publish=yes)
+[Mock Dashboard](https://public.tableau.com/app/profile/avni.thakor/viz/FinalProject_16751303234100/Dashboard1?publish=yes)
