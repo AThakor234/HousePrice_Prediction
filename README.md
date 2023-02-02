@@ -65,3 +65,7 @@ Finally, we will apply Lasso Regression Model on our input features to select th
 * Bar/Pie chart illustrating the Housing Price Vs Features 
 * Linear line graph illustrating the Housing Price Vs  
 * Scatter Plot illustrating the Price vs Total livable area, Price vs School score/distance 
+
+## Mock Dashboard
+
+[Mock Dashboard](https://public.tableau.com/app/profile/avni.thakor/viz/FinalProject_16751303234100/Region?publish=yes)
