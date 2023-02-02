@@ -16,6 +16,7 @@ The goal is to provide cosnsumers the house price prediction and forecasting inf
 * Dataset: [Project_Dataset](https://www.kaggle.com/datasets/quantbruce/californiahouseprices)
 
 ## Data Exploration on the dataset in Python:
+Exploratory Data Analysis notebook here: [EDA_Notebook](https://github.com/AThakor234/HousePrice_Prediction/blob/main/ETL/ETL.ipynb) 
 The dataset was extracted as .csv file from the Kaggle.com. As part of the transformation, we applied series of rules/functions to the extracted data. This was inorder to load the transformed data into Postgres database. 
 
 ## ERD: 
