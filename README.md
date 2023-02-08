@@ -64,15 +64,14 @@ The above mentioned indexes will be used to select the best performing model.
 Finally, we will apply Lasso Regression Model on our input features to select the best input features and perform hyperparameter tuning to improve model accuracies and performance.
 
 ## Outline of the Dashboard:
-* Heatmap illustrating the Housing Price Vs Location 
-* Histogram illustrating the Housing Price Vs Type of House
-* Bar/Pie chart illustrating the Housing Price Vs Features 
-* Linear line graph illustrating the Housing Price Vs  
-* Scatter Plot illustrating the Price vs Total livable area, Price vs School score/distance 
+* Tree Map illustrating the Housing Price Vs Year_built
+* Map illustrating the Housing Price Vs Zip-code
+* Bar chart illustrating the Housing Price Vs House Type 
+* Linear line graph illustrating the Housing Price Vs Features
+ 
+## Dashboard
 
-## Mock Dashboard
-
-[Mock Dashboard](https://public.tableau.com/app/profile/avni.thakor/viz/FinalProject_16751303234100/Dashboard1?publish=yes)
+[Final Dashboard](https://public.tableau.com/app/profile/avni.thakor/viz/FinalProject_16751303234100/Story1?publish=yes)
 
 ## Recommendation and Conclusion
 
