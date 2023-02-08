@@ -74,7 +74,7 @@ Finally, we will apply Lasso Regression Model on our input features to select th
 
 [Mock Dashboard](https://public.tableau.com/app/profile/avni.thakor/viz/FinalProject_16751303234100/Dashboard1?publish=yes)
 
-**##RECOMMENDATION AND CONCLUSION
+## RECOMMENDATION AND CONCLUSION
 
 Having provided the house price prediction and accurately forcasted the future value of the various property types using four different Machine Learning model, we recommend Gradient boost Regression model with an accuracy level of 62.9 approximately. 
 .........
