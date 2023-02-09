@@ -9,6 +9,8 @@
 
 The goal is to provide cosnsumers the house price prediction and forecasting information estimating the future value of different types of property. The overview of the project is to develop a Machine Learning Model to predict the housing prices in the State of California based on the inputs below. 
 
+Link to the final presentation: https://docs.google.com/presentation/d/1_oM4gT1UbfwluxF5DDbUMnwBVvoDu_AjvhEOUzajSOE/edit?usp=sharing
+
 ## Inputs: 
 * Housing (Location, Type) 
 * School (Score, Distance)
