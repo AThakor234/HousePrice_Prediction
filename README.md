@@ -134,3 +134,11 @@ and finally illustrating the Housing price and features  with graph
 
 * Data Quality: The quality of the data used to train the model has a significant impact on the accuracy of the predictions. If the data is outdated, incomplete, or biased, it can lead to incorrect predictions.
 
+
+## Future work/Recommendation
+* Having provided the house price prediction and accurately forecasted the future value of the various property types using four different Machine learning model. 
+
+* We recommend Gradient Boost Regression model with an accuracy level of 62.9 approximately which we used 
+
+* We also recommend  Neural network for better accuracy and a real time deployment using flask.
+
