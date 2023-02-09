@@ -64,22 +64,22 @@ The above mentioned indexes will be used to select the best performing model.
 Finally, we will apply Lasso Regression Model on our input features to select the best input features to improve model accuracies and performance.
 
 ### Model Results
-+ Linear Regressor
++ **Linear Regressor:**
   MAE: 201391.75935603445
   RMSE: 1430214.98592689
   R2 Score: 0.46105604120201615
   
-+ Random Forest Regressor
++ **Random Forest Regressor:**
   MAE: 157076.38875835546
   RMSE: 1194170.3553152692
   R2 Score: 0.6242720255803786
   
-+ Gradient Boost Regressor
++ **Gradient Boost Regressor:**
   MAE: 164115.1995982871
   RMSE: 1189489.0486606506
   R2 Score: 0.6272120588886083
   
-+ XG Boost Regressor
++ **XG Boost Regressor:**
   MAE: 162337.58939023735
   RMSE: 1196696.0456807972
   R2 Score: 0.6226810028804096
