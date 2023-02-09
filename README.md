@@ -65,24 +65,24 @@ Finally, we will apply Lasso Regression Model on our input features to select th
 
 ### Model Results
 + **Linear Regressor:**
-  MAE: 201391.75935603445
-  RMSE: 1430214.98592689
-  R2 Score: 0.46105604120201615
+  MAE: 201391.75
+  RMSE: 1430214.98
+  R2 Score: 0.4610
   
 + **Random Forest Regressor:**
-  MAE: 157076.38875835546
-  RMSE: 1194170.3553152692
-  R2 Score: 0.6242720255803786
+  MAE: 157076.38
+  RMSE: 1194170.35
+  R2 Score: 0.6242
   
 + **Gradient Boost Regressor:**
-  MAE: 164115.1995982871
-  RMSE: 1189489.0486606506
-  R2 Score: 0.6272120588886083
+  MAE: 164115.19
+  RMSE: 1189489.04
+  R2 Score: 0.6272
   
 + **XG Boost Regressor:**
-  MAE: 162337.58939023735
-  RMSE: 1196696.0456807972
-  R2 Score: 0.6226810028804096
+  MAE: 162337.58
+  RMSE: 1196696.04
+  R2 Score: 0.62268
 
 
 ## Outline of the Dashboard:
