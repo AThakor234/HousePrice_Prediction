@@ -115,6 +115,22 @@ Finally, we will apply Lasso Regression Model on our input features to select th
 
 
 ## Recommendation and Conclusion
+The whole ETL process was carried out on our chosen data set (California house pricing) and we were able to solve some crucial business problems like ;
 
-Having provided the house price prediction and accurately forcasted the future value of the various property types using four different Machine Learning model, we recommend Gradient boost Regression model with an accuracy level of 62.9 approximately. 
-.........
+1. How house price are affected by year built  using a  Map for illustration
+ 
+2. The effect of house prices on Zip code using Map
+
+3. Comparing House price and House type using  barchart 
+
+and finally illustrating the Housing price and features  with graph 
+
+ In summary,  the older the house  does not affect the house price in most cases due to the facts that most  of the houses could have been renovated which we do not have the data to factual  on that. 
+
+## Limitations
+* Human Factors: The model may not be able to account for human factors, such as personal preferences and biases, that can impact the sale price of a property.
+
+* Factors such as Renovation (year, type) would provide a better correlation between the year built and price of the home 
+
+* Data Quality: The quality of the data used to train the model has a significant impact on the accuracy of the predictions. If the data is outdated, incomplete, or biased, it can lead to incorrect predictions.
+
