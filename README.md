@@ -55,13 +55,13 @@ The house price will be predicted using the following input variables:
 
 The categorical variables with more than 25 unique features will be rescaled by the bucketing technique and one-hot encoding applied before parsing on to the machine laerning models. SImilary, the standard scalar instance will be used to transform numerical values for the machine learning models.
 
-The models will be trained and assessed using the following statistical accuracy indexes:
+The models will be trained and evaluated using the following performance metrices:
 + Root Mean Square Error (RMSE)
 + Mean Average Error (MAE)
 + R-Squared Coefficient of Determination
 
-The above mentioned indexes will be used to select the best performing model.
 Finally, we will apply Lasso Regression Model on our input features to select the best input features to improve model accuracies and performance.
+[CLICK HERE to open Model Optimization with Lasso Regressor](https://github.com/AThakor234/HousePrice_Prediction/blob/main/ML/ML_optimization.ipynb) 
 
 ### Model Results
 + **Linear Regressor:**
