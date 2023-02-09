@@ -1,6 +1,12 @@
 # California House Price Prediction
 
 ## Overview:
+
+* Nearly 17 million people in California (about 44% of the population) rent homes, making it the second-largest tenant population in the US. 
+* The average rental price in the State of California is $1,726 with an average apartment size of 1,020 sq.ft.
+* After having a great success in New York and Texas, we have identified a huge market among the first-time homebuyers and investors in California 
+* Provide investment guidance by educating the consumers in the long-term asset creation, higher Return on Investment (ROI)
+
 The goal is to provide cosnsumers the house price prediction and forecasting information estimating the future value of different types of property. The overview of the project is to develop a Machine Learning Model to predict the housing prices in the State of California based on the inputs below. 
 
 ## Inputs: 
